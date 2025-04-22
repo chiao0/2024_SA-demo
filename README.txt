@@ -1,3 +1,7 @@
+這是大三的系統分析與設計課程的期末報告與比賽成果，詳細資料請見：[查看PDF文件](./系統分析與設計期末報告-資管三甲第九組.pdf)
+
+
+
 桌面/
 ├── car                  # app.py是後端,Dump20250108.sql是MySQL資料庫
 ├── Taipei-City-Dashboard-main        # 臺北城市儀表板，用docker開啟
