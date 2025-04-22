@@ -22,10 +22,4 @@ C/
 ![SA1照片](./award/SA1.jpg)
 ![SA2照片](./award/SA2.jpg)
 
-<p align="center">
-  <img src="./award/SA1.jpg" width="400"/>
-</p>
 
-<p align="center">
-  <img src="./award/SA2.jpg" width="400"/>
-</p>
