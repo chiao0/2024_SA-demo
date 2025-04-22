@@ -18,6 +18,3 @@ D/
 C/
 ├── 使用者/mray3/process_board_data.py #run_process_board_data.bat所執行的程式
 
-
-![SA1圖片描述](award/SA1.jpg)
-![SA2圖片描述](award/SA2.jpg)
